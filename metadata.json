@@ -1,0 +1,6 @@
+{
+  "name": "Misi Sejarah: The Lost Civilization",
+  "description": "Permainan pengembaraan 3D pendidikan Sejarah Tingkatan 1 Bab 1: Terokai Ilmu Sejarah dengan kampung purba, 8 portal misi, peta pulau misteri, dan panduan sejarah interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
